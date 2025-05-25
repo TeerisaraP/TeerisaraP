@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teerisara Pruksapitakul</h1>
 <h3 align="center">A computer engineering student at TNI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teerisarap&label=Profile%20views&color=0e75b6&style=flat" alt="teerisarap" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teerisarap" alt="teerisarap" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Web Development, Database, Software Testing**
